@@ -39,6 +39,26 @@ hr{
 	border-top: 3px dotted blue;
 }
 
+#good{
+	text-align: center;
+}
+
+form{
+	text-align: center;
+}
+
+#epycwynnn{
+	text-align: center;
+}
+
+footer p{
+	background-color:black;
+	line-height: 50px;
+	margin: 0px;
+	color: ghostwhite;
+	text-align: center;
+}
+
 form{
 	text-align: center;
 }
