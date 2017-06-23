@@ -1,0 +1,56 @@
+.navbar-brand{	
+	color:firebrick!important;
+}
+
+.navbar-brand span{
+	color:blue;
+}
+.icon-bar{
+	background-color:red!important;
+}
+
+#site-title{
+	text-align: center;
+	color:midnightblue;
+	background-color: #eeeeee;
+	margin-top: -20px;
+	padding: 10px 0px 10px 0px;
+}
+
+#three-images img{
+	width:100%;
+	border: 2px solid black;
+	box-shadow: 1px 4px;
+}
+
+#three-images h4{
+	text-align: center;
+}
+
+#three-images p{
+	text-align: justify;
+}
+
+#three-images hr{
+	border-top: 3px dotted red!important;;
+}
+
+hr{
+	border-top: 3px dotted blue;
+}
+
+form{
+	text-align: center;
+}
+
+#epycwynnn{
+	text-align: center;
+}
+
+footer p{
+	background-color:black;
+	line-height: 50px;
+	margin: 0px;
+	color: ghostwhite;
+	text-align: center;
+}
